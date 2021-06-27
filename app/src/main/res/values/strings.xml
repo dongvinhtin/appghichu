@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Do It</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="new_content">New Content</string>
+    <string name="tasks">Tasks</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="details">Details</string>
+    <string name="back">Back</string>
+
+</resources>
